@@ -1,7 +1,8 @@
 {
   "displayName": "My Clinical Findings Form",
   "healthRegion": "Fraser Health",
-  "jurisdiction": "BC",
+  "healthRegion-fr": "Fraser Health (FR)",
+  "jurisdiction": "",
   "language": "English",
   "versionHistory": [
     {"version": 1, "date": "2023-01-01", "comments": ""},
